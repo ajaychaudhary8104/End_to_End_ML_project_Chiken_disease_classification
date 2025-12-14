@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/ajaychaudhary8104/End_to_End_ML_project_Chiken_disease_classification
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
