@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  unzip_dir: artifacts/data_ingestion
+  source_URL: https://raw.githubusercontent.com/ajaychaudhary8104/data/main/Chicken-fecal-images.7z
+  local_data_file: artifacts/data_ingestion/data.7z

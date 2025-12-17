@@ -8,10 +8,10 @@ seaborn
 python-box
 pyYAML
 tqdm
-ensure==1.0.4
+ensure
 joblib
 types-PyYAML
 scipy
 Flask
 Flask-Cors
--e .
+#-e .
