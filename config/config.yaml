@@ -6,3 +6,10 @@ data_ingestion:
   unzip_dir: artifacts/data_ingestion
   source_URL: https://raw.githubusercontent.com/ajaychaudhary8104/data/main/Chicken-fecal-images.7z
   local_data_file: artifacts/data_ingestion/data.7z
+
+  
+
+prepare_base_model:
+  root_dir: artifacts/prepare_base_model
+  base_model_path: artifacts/prepare_base_model/base_model.h5
+  updated_base_model_path: artifacts/prepare_base_model/base_model_updated.h5  
