@@ -24,7 +24,7 @@ https://github.com/ajaychaudhary8104/End_to_End_ML_project_Chiken_disease_classi
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n cnncls python=3.12 -y
 ```
 
 ```bash
